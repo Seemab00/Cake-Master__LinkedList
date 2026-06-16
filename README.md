@@ -43,7 +43,7 @@ BS Software Engineering
 Riphah International University  
 **Supervisor**: Ma'am Seemab  
 **Co-Supervisor**: Ma'am Fariya  
-**Session**: Fall 2024 - 3th Sem
+**Session**: Fall 2024 - 3rd Sem
 
 ---
 
