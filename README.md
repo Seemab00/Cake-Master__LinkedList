@@ -35,18 +35,15 @@
 
 ---
 
-## 👥 Developer
+## 👤 Developer
 
-| Name | SAP ID | Program |
-|------|--------|---------|
-| Simaab Malik | 54910 | SE-3 |
-| Affifa Amna | 55466 | SE-3 |
-| Anoosha Perwaiz Awan | 56200 | SE-3 |
-
+**Simaab Malik**  
+SAP ID: 54910  
+BS Software Engineering  
+Riphah International University  
 **Supervisor**: Ma'am Seemab  
-**Co-supervisor**: Ma'am Rehana  
-**Date**: 06/11/2024  
-**Institution**: Riphah International University
+**Co-Supervisor**: Ma'am Fariya  
+**Session**: Fall 2024 - 3th Sem
 
 ---
 
