@@ -35,7 +35,7 @@
 
 ---
 
-## 👥 Team Members
+## 👥 Developer
 
 | Name | SAP ID | Program |
 |------|--------|---------|
